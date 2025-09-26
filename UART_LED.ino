@@ -43,8 +43,9 @@ void sendChar(char data) {
 // This function sends a message, one character at a time.
 void sendString(char* str) {
   int i = 0;               // i starts at value zero
-  while (str[i] != '\0') { // //while string i is not /0 
+  while (str[i] != '\0') { // while string i is not /0 
     sendChar(str[i]);      // Send the character at position i
     i++;                   // Continue to next character (i.e., 'H' then 'E'...)
   }
 }
+
