@@ -29,6 +29,6 @@ By watching the LED, you can literally see the data bits (including the start an
 
 ### Part 2: The Decoder:
 
-The second part of this project is a Flutter application that will use a smartphone's camera to watch the LED, decode the light pulses from our UART signal, and display the message on the screen.
+The second part of this project is a Flutter application that will use a smartphone's camera to watch the LED, and decode the light pulses from our UART signal.
 
 ### Part 2 Repository: [coming soon]
