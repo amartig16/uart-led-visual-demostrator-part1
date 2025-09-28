@@ -1,5 +1,8 @@
 # uart-led-visual-demostrator-part1
 
+## ****If this project is useful to you, share your opinions in the comments section****<br> 
+## What problem do you have that this project solved?</br></br></br>
+
 ## Project Description
 This is the first part of a two-part tutorial that demonstrates the fundamentals of the UART (Universal Asynchronous Receiver-Transmitter) serial communication protocol in a visual, easy-to-understand way.
 
