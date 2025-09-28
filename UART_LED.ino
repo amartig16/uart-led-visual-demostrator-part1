@@ -2,7 +2,7 @@
 // Sends "Hello World" in a slow, visual UART protocol
 
 const int ledPin = 8; //constant integer named: ledPin 8 (your digital pin 8 in your Arduino)
-const int baudRate = 5; //lower number slower the LED speed becomes. Do not go below 2.
+const int baudRate = 5; //lower number slower the LED speed becomes. 1 = 1 bit per second
 const int bitDuration = 1000 / baudRate; // Calculate how long each bit lasts
 
 void setup() {
@@ -48,4 +48,5 @@ void sendString(char* str) {
     i++;                   // Continue to next character (i.e., 'H' then 'E'...)
   }
 }
+
 
