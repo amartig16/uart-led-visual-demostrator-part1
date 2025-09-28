@@ -35,3 +35,7 @@ By watching the LED, you can literally see the data bits (including the start an
 The second part of this project is a Flutter application that will use a smartphone's camera to watch the LED, and decode the light pulses from our UART signal.
 
 ### Part 2 Repository: [https://github.com/amartig16/UART-LED-Visual-Demonstrator---Part-2-Mobile-Decoder]
+
+### Part 3: The Translator:</br>
+The third part of this project is a python script that takes the values obtainid in part 2 and outputs text.</br>
+### Part 3 Repository: [https://github.com/amartig16/UART-LED-Visual-Demonstrator---Part-3-Python-UART-to-text]
